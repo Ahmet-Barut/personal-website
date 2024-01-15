@@ -123,7 +123,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "ahmetbarut.2003@gmail.com",
-    YOUR_FONE: "+90(546)584-0097",
+    YOUR_FONE: "+90(***)-***-****",
     description: "Yukarıdaki e-mail ve telefon numarasından ulaşabilirsiniz. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
